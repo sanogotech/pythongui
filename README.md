@@ -1,8 +1,11 @@
-# pythongui
-TKinter
+# pythongui : TKinter
 
-#Install  modules
+## Install  modules
+```python
 pip  install tkinter
+```
 
-#Run
+#{ Run
+```
 python  calculatorgui.py
+```
